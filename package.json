@@ -23,6 +23,7 @@
   "homepage": "https://github.com/vipul261/comet",
   "dependencies": {
     "logfmt": "~1.1.2",
-    "express": "~4.7.2"
+    "express": "~4.7.2",
+    "mongodb": "~1.4.7"
   }
 }
