@@ -7,6 +7,9 @@ app.use(logfmt.requestLogger());
 app.get('/', function(req, res) {
   res.send('Comet says...Hello World!');
 });
+app.get('/sayHi', function(req, res) {
+  res.send('Comet says...HIIIIIIIIIII!!!');
+});
 
 var port = Number(process.env.PORT || 5000);
 app.listen(port, function() {
