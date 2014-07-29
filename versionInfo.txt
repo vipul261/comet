@@ -1,0 +1,8 @@
+COMET version 0.0.1
+
+The birth of an unplanned unknown project destined to become something special.
+The very first version is setting up Git and Heroku. Avalable at http://comet261.herokuapp.com/ 
+
+Right now it exposes two Get calls / and /sayHi (learning to say its first words, I’m so proud of my first child :D)
+
+——
