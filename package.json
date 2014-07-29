@@ -1,0 +1,28 @@
+{
+  "name": "Comet",
+  "version": "0.0.1",
+  "description": "Setting up Node and Heroku",
+  "main": "web.js",
+  "scripts": {
+    "test": "comet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vipul261/comet.git"
+  },
+  "keywords": [
+    "comet",
+    "node",
+    "heroku"
+  ],
+  "author": "Vipul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipul261/comet/issues"
+  },
+  "homepage": "https://github.com/vipul261/comet",
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.7.2"
+  }
+}
