@@ -37,7 +37,7 @@ app.get('/', function(req, res) {
 });
 
 app.get('/sayHi', function(req, res) {
-  res.send('Comet says...HIIIIIIIIIII!!!');
+  res.send('Comet says...HIIIIIIIIIII!');
 });
 
 var port = Number(process.env.PORT || 5000);
