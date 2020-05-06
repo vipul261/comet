@@ -1,4 +1,4 @@
-Comet
+# Comet Code
 
 Named after a galaxy...This is a code name of a self project, the prospects of which I am still exploring.
 
